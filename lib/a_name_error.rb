@@ -1,3 +1,2 @@
-"hello world"
+puts "Hello world!\n"
 
-hello_world
